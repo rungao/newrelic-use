@@ -1,7 +1,4 @@
-## NewRelic监控
-
-
-[TOC]
+# NewRelic监控
 
 ### 监控介绍
 
